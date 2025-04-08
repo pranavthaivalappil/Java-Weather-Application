@@ -1,2 +1,6 @@
-# Java Weather Application
- Java Weather Application Created using Java Swing Interface while fetching live weather data form Open-Meteo API
+# Java GUI Weather App
+
+![Imgur](https://i.imgur.com/gxRNBTd.png)
+
+- [Geolocation API: Geocoding](https://open-meteo.com/en/docs)
+- [Weather API: Open-Meteo](https://open-meteo.com/en/docs)
