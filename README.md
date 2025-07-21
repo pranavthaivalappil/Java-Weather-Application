@@ -8,7 +8,7 @@ A modern weather application built with Java Swing that fetches real-time weathe
 
 ## Images of our APP
 
-![Weather App Screenshot](Image/image.png)
+![Weather App Screenshot](images/image.png)
 
 ## Features
 - Real-time weather data
